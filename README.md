@@ -14,6 +14,7 @@ Examples of program execution:
 1) Input data
 
 ![alt text](https://i.ibb.co/DtZ66RG/image0.jpg)
+
 2) Output data
 
 ![alt text](https://i.ibb.co/CwgtNmC/image0-result.png)
